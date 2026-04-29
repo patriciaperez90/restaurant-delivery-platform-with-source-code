@@ -1,5 +1,5 @@
 <h2 style="text-align:center">Restaurant Delivery Platform With Source Code </h2>
- 
- ![restaurant delivery platform with source code](https://admin.ninjascode.com/wp-content/uploads/2025/repoImages/patricia/Restaurant%20Delivery%20Platform%20With%20Source%20Code.webp) 
- 
- The restaurant delivery platform with source code frontend source code for our solution is completely open source. However, the API and backend is proprietary and can be accessed via a paid license. For more details, <a href="https://enatega.com/patricia-restaurant-delivery-platform-with-source-code" target="_blank">click here</a>.
+  
+  ![restaurant delivery platform with source code](https://admin.ninjascode.com/wp-content/uploads/2025/repoImages/patricia/Restaurant%20Delivery%20Platform%20With%20Source%20Code.webp) 
+  
+  The restaurant delivery platform with source code frontend source code for our solution is completely open source. However, the API and backend is proprietary and can be accessed via a paid license. For more details, <a href="https://onboarding.enatega.com/register/?utm_source=github&utm_medium=repo&utm_campaign=patricia-restaurant-delivery-platform-with-source-code" target="_blank">click here</a>.
